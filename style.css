@@ -83,13 +83,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 20vw;
+    width: 25vw;
     height: auto;
     border-radius: 25px;
   }
 
   .qr-code {
-    width: 20vw;
+    width: 25vw;
     justify-content: center;
     padding: 1em;
     border-radius: 30px;
@@ -97,20 +97,20 @@
   
   .improve {
     color: hsl(218, 44%, 22%);
-    padding: 2% 8%;
+    padding: 4% 10%;
     font-weight: 700;
     font-size: 1.2em;
   }
   
   .scan {
     color: hsl(220, 15%, 55%);
-    padding: 2% 8% 10%;
+    padding: 2% 8% 12%;
     font-weight: 400;
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
   .attribution { 
-    font-size: 0.6rem;
+    font-size: 0.5rem;
     text-align: center;
     margin: 1%;
   }
